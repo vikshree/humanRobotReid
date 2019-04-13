@@ -1,2 +1,2 @@
 # humanRobotReid
-This repository consists the files for zero-shot re-ID
+This repository consists supplementary materials associated to zero-shot re-ID.
