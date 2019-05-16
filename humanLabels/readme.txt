@@ -1,7 +1,7 @@
 We opensource human-annotated data collected for re-ID.
 It consists of:
 1) The labels that participants provided during the study.
-2) The query images images used for the study.
+2) The query images images used for the study. (Original Source: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html)
 3) The gallery images used for conducting the re-ID experiment.
 
 ==========================================================================
